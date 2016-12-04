@@ -1,0 +1,19 @@
+This is my note.
+pwd: show current directory
+cd: Changing director
+	+ |~: Go to home directory
+	+ /: Go to root directory
+	+ ../:Go to upper directory
+	+ -:Go to previous directory
+	
+
+
+vim <***.***>: edit certain file. If not exist: create one.
+
+
+ls: list file and directory
+	+ -l: list with long format - show permissions
+	+ -la: list long format including hidden files
+	+ -lh: list long format with readable file size
+
+How to read permission
